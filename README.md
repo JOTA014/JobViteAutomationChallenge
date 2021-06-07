@@ -25,9 +25,9 @@ Now, as of right now I **couldn't complete** all of the requirements for this te
 -   Pixel perfect test (I actually have no idea what this test is, and couldn't find enough clarification on internet)
 -   Multi-browser support (I think is easy to add, but ran out of time before I could try it)
 And for what **I did complete**:
-1.   Created test cases for the search, add to cart and contact functionalities/sections
+1.   Created test cases for the search, add to cart and contact functionalities/sections (didn't realize I had to document them on a spreadsheet, [here](https://docs.google.com/spreadsheets/d/1tL9HE6k7DuOYy4OKwBbgDXsp6zyz2Qs4Uj-d53wxcYQ/edit?usp=sharing) I documented just a few of them, since the documentation is the same style than the previous exercise and I have provided other types of documentation I guess this error might be sorted)
 2.   Executed an acceptance test for those test cases ([here the results](https://drive.google.com/file/d/1XLFnPIEuYGcwNdQtOLpgq-l0VyalXjtA/view?usp=sharing))
-3.   [A Trello board](https://trello.com/invite/b/2nEGQpaX/e361f5f4683246098e5493e80b8ba50e/automation-board) with the structure for bug solving life cycle and bugs reported 
+3.   [A Trello board](https://trello.com/invite/b/2nEGQpaX/e361f5f4683246098e5493e80b8ba50e/automation-board) with the structure for bug solving life cycle and bugs reported (same test cases that failed in the result showed above)
 
 ##  Things to improve
 -   Change the screenshot strategy: As of right now we can take screenshots, but they might not be capturing the important part of the screen.
