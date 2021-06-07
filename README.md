@@ -28,3 +28,8 @@ And for what **I did complete**:
 1.   Created test cases for the search, add to cart and contact functionalities/sections
 2.   Executed an acceptance test for those test cases ([here the results](https://drive.google.com/file/d/1XLFnPIEuYGcwNdQtOLpgq-l0VyalXjtA/view?usp=sharing))
 3.   [A Trello board](https://trello.com/invite/b/2nEGQpaX/e361f5f4683246098e5493e80b8ba50e/automation-board) with the structure for bug solving life cycle and bugs reported 
+
+##  Things to improve
+-   Change the screenshot strategy: As of right now we can take screenshots, but they might not be capturing the important part of the screen.
+-   I need to encapsulate some methods not related to the page object to a general use class in the helpers folder
+-   Of course include what I didn't have time to complete
