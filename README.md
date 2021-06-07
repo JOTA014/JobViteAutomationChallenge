@@ -18,7 +18,8 @@ Not much to add about this one.
 Now about this one I created this repo, it is an automation test on .Net Core 3.1 and XUnit. Created using Visual Studio 2019 (latest version I think). And There are a couple additional things to know in order to run it:
 1.  There is a config file (appsettings.json) with values **you must** change in order to make this work. These values are:
     -   A local route to find the webdriver (WebDriverLocation)
-    -   A directory used to take screenshots while testing
+    -   A directory used to take screenshots while testing (ScreenshotDirectory)
+    -   A max waiting time value, used to fight against time outs parametrically
 2. I used this [Chrome Driver](https://drive.google.com/file/d/1gdaXGeI5GKDz2stZsA4vW8q1OzmOohKC/view?usp=sharing) since it is the one compatible with my local setup, you might want to change it if it is not your same case.
 
 Now, as of right now I **couldn't complete** all of the requirements for this test. Here is what I couldn't make:
