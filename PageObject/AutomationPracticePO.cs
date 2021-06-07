@@ -13,7 +13,7 @@ namespace JobViteAutomationChallenge.PageObject
     public class AutomationPracticePO
     {
         private IWebDriver Driver;
-        private readonly int MaxWaitingTime = 10;
+        private int MaxWaitingTime => int.Parse(ConfigurationHelper.GetConfigValue("MaxWaitingTime"));
         private string contactFormHeader = "Customer service - Contact us";
         public AutomationPracticePO(IWebDriver driver)
         {
