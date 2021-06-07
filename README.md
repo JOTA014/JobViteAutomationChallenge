@@ -14,7 +14,7 @@ For this excercise I think I completed all of the requirements. The requested de
 
 Not much to add about this one.
 
-##  Exercise 1
+##  Exercise 2
 Now about this one I created this repo, it is an automation test on .Net Core 3.1 and XUnit. Created using Visual Studio 2019 (latest version I think). And There are a couple additional things to know in order to run it:
 1.  There is a config file (appsettings.json) with values **you must** change in order to make this work. These values are:
     -   A local route to find the webdriver (WebDriverLocation)
