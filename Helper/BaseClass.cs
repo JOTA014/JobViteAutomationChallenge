@@ -12,7 +12,7 @@ namespace JobViteAutomationChallenge.Helper
     public class BaseClass : IDisposable
     {
         protected RemoteWebDriver driver;
-        static string chromeDriverPath => Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+        static string chromeDriverPath => ConfigurationHelper.GetConfigValue("WebDriverLocation");
 
         public void GetChromeDriver()
         {
