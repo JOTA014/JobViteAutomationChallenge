@@ -34,3 +34,6 @@ And for what **I did complete**:
 -   Change the screenshot strategy: As of right now we can take screenshots, but they might not be capturing the important part of the screen.
 -   I need to encapsulate some methods not related to the page object to a general use class in the helpers folder
 -   Of course include what I didn't have time to complete
+
+## Final feedback
+"Great candidate, the only thing he should improve is the way he reports the bugs. He missed the bug priority, severity, environment, and preconditions."
